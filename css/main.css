@@ -1,0 +1,178 @@
+.row {
+	max-width: 100%;
+	margin: 0px auto;
+	
+
+}
+.banner{
+	background-image: url(../img/top.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height:350px;
+	position: relative;
+}
+.titulo{
+	text-align: center;
+	color: #171E37
+}
+nav{
+	text-align: center;
+}
+
+ul, li ,a{
+	text-decoration: none;
+	list-style: none;
+	display: inline-block; 
+	font-size: 15px;
+	color: #ABABAB;
+	font-family: 'Montserrat';
+	margin-left: 6px;
+	margin-right: 10px;
+
+}
+
+.boton a:hover{
+	background-color: #B61788;
+	opacity: 0.5;
+}
+.studio{
+	width: 30%;
+	color: #FE73FF;
+	margin-top: 10%;
+	margin-left: 30%;
+	
+}
+
+.parrafo{
+	color: #D0D0D0;
+	width: 30%;
+	font-size: 13px;
+	margin-left: 4%;
+	margin-top: 20%;
+	position: relative;
+}
+
+.inscribete{
+	width: 60%;
+	height: 30px;
+	border-radius: 3%;
+	text-align: center;
+	padding: 2% 3%;
+	background-color: #1B13B6;
+	
+}
+
+.fondo{
+	background-image: url(../img/old_wall.png);
+	background-size: cover;	
+	height:300px;
+	position: relative;
+	padding: 20px auto;
+}
+
+.juilliart{
+	text-align: center;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 9%;
+}	
+
+.deco{
+	width: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.oferta{
+	width: 20%;
+	height: 60px;
+	border-radius: 3%;
+	text-align: center;
+	background-color: #D0828D;
+	padding: 2% 3%;
+	font-family: 'Montserrat';
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.instructores{
+	width: 100%;
+	height: 300px;
+	position: relative;
+}
+.nuestros{
+	width: 20%;
+	height: 60px;
+	border-radius: 3%;
+	text-align: center;
+	font-family: 'Montserrat';
+	background-color: #D0828D;
+	padding: 2% 3%;
+	position: absolute;	
+	margin-left: 40%;
+	margin-right: auto;
+	display: block;
+	margin-top: 18%;
+	color: white;
+}
+.tercera-parte {
+	padding: 0;
+	margin: 0;
+}
+.tercera-parte .column {
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	margin: 0 auto;
+	
+}
+
+
+.fondo4{
+	background-image: url(../img/textura_2.jpg);
+	background-size: cover;	
+	width: 100%;
+	height: 250px;
+}
+.danza{
+	font-size: 40px;
+	text-align: center;
+	font-style: italic;
+	margin-top: 9%;
+}
+
+.azul{
+	background-color: #141D41;
+	height: 300px;
+}
+
+.direccion{
+	margin-left: 20%;
+	margin-top: 10%;
+	color: #F6FBFF;
+}
+iframe{
+	margin-top: 2%;
+}
+
+
+.balet{	
+	width: 100%;	
+}
+.formulario{
+	margin-left: 20%;
+	margin-top: 10%;
+}
+
+footer{
+	background-color: #131D3F;
+	color: #FAFEFF;
+	font-size: 12px;
+	height: 40%;
+	padding-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
